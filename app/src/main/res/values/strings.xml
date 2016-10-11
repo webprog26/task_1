@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">task_1</string>
+
+    <!--TextViews-->
+    <string name="hello_world">Hello world!</string>
+
+    <!--Buttons-->
+    <string name="hide_me">Hide me</string>
+
+    <!--Menu-->
+    <string name="show_button">Show button</string>
+</resources>

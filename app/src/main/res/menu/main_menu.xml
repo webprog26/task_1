@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:compat="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.example.webprog26.task_1.MainActivity">
+    <item
+        android:id="@+id/actionShowButton"
+        android:orderInCategory="100"
+        android:title="@string/show_button"
+        android:icon="@android:drawable/ic_menu_more"
+        android:visible="true"
+        compat:showAsAction="never"/>
+</menu>
